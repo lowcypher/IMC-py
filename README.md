@@ -1,4 +1,4 @@
-# IMC-py
+# IMC-Py
 Calculando IMC com Python
 
 (http://www.mariomedeiros.eti.br/artigos/index.php?article37/calculando-imc-com-python)
